@@ -6,7 +6,7 @@ The Solution:
   1	This Test build with JAVA in NetBeans IDE						
 	2	Start/Run with GalaxyMerchantApp.Java						
 	3	Input line of String:		
-	            glob is I				
+			    glob is I				
 				prok is V				
 				pish is X				
 				tegj is L				
@@ -19,8 +19,8 @@ The Solution:
 				how many Credits is glob prok Iron ?				
 				how much wood could a woodchuck chuck if a woodchuck could chuck wood ?				
 								
-	4	Program will give output:
-	                pish tegj glob glob is 42			
+	4	Program will give output:			
+				    pish tegj glob glob is 42			
 					glob prok Silver is 68 Credits			
 					glob prok Gold is 57800 Credits			
 					glob prok Iron is 782 Credits			
